@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello 👋🏼
+<hr>
+I'm Ebenezer a software developer👨🏽‍💻<br>
+I currently focus on frontend development<br>
+My ultimate goal is to be a fullstack developer<br>
 
-<!--
-**k1ngniizar/k1ngniizar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Stack:
+<hr>
 
-Here are some ideas to get you started:
+## Currently 🗓️⏰
+<hr>
+I'm working as a frontend developer for a Nigerian startup store <br>
+I'm participating in the Knownly Internship
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal 🥅✅
+<hr>
+Strengthen my frontend skills
+Build production ready and real world projects
+Collaborate and connect with other creatives
+
+## Github stat:
+<hr>
