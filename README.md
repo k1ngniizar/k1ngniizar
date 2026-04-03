@@ -1,6 +1,6 @@
-# Hello👋🏽, I'm Ebenezer.
+# Hello, I'm Ebenezer.
 
-## About me 👨🏽‍💼:
+## About me:
 I am a Software Developer with a focus on frontend development. I enjoy learning and building from every experience, paying close attention to details, user experience and user interface. I am also currently expanding my skills to backend development, to ultimately become a full stack developer.
 
 ## Tech stack:
